@@ -1,0 +1,1 @@
+This repository demonstrates a potential buffer overflow vulnerability in a short piece of assembly code and its solution. The bug.asm file contains the vulnerable code, while bugSolution.asm provides a corrected version.  Understanding buffer overflows is crucial for writing secure code.
